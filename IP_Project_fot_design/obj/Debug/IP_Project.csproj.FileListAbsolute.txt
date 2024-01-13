@@ -1,0 +1,418 @@
+C:\Users\osama\source\repos\IP_Project\bin\Debug\IP_Project.exe.config
+C:\Users\osama\source\repos\IP_Project\bin\Debug\IP_Project.exe
+C:\Users\osama\source\repos\IP_Project\bin\Debug\IP_Project.pdb
+C:\Users\osama\source\repos\IP_Project\obj\Debug\IP_Project.csproj.AssemblyReference.cache
+C:\Users\osama\source\repos\IP_Project\obj\Debug\IP_Project.Form1.resources
+C:\Users\osama\source\repos\IP_Project\obj\Debug\IP_Project.Properties.Resources.resources
+C:\Users\osama\source\repos\IP_Project\obj\Debug\IP_Project.csproj.GenerateResource.cache
+C:\Users\osama\source\repos\IP_Project\obj\Debug\IP_Project.csproj.CoreCompileInputs.cache
+C:\Users\osama\source\repos\IP_Project\obj\Debug\IP_Project.exe
+C:\Users\osama\source\repos\IP_Project\obj\Debug\IP_Project.pdb
+C:\Users\osama\source\repos\IP_Project\obj\Debug\IP_Project.Form2.resources
+C:\Users\osama\source\repos\IP_Project\obj\Debug\test.control.custom_txtbox.resources
+C:\Users\osama\source\repos\IP_Project\obj\Debug\IP_Project.EmployeeMain.resources
+C:\Users\osama\source\repos\IP_Project\obj\Debug\IP_Project.main_page.resources
+C:\Users\osama\source\repos\IP_Project\obj\Debug\IP_Project.managerMain.resources
+C:\Users\osama\source\repos\IP_Project\obj\Debug\IP_Project.userMainpage.resources
+E:\college\third year\برمجة تكاملية\IP_Project\bin\Debug\IP_Project.exe.config
+E:\college\third year\برمجة تكاملية\IP_Project\bin\Debug\IP_Project.exe
+E:\college\third year\برمجة تكاملية\IP_Project\bin\Debug\IP_Project.pdb
+E:\college\third year\برمجة تكاملية\IP_Project\obj\Debug\IP_Project.csproj.AssemblyReference.cache
+E:\college\third year\برمجة تكاملية\IP_Project\obj\Debug\IP_Project.csproj.SuggestedBindingRedirects.cache
+E:\college\third year\برمجة تكاملية\IP_Project\obj\Debug\test.control.custom_txtbox.resources
+E:\college\third year\برمجة تكاملية\IP_Project\obj\Debug\IP_Project.Form1.resources
+E:\college\third year\برمجة تكاملية\IP_Project\obj\Debug\IP_Project.Form2.resources
+E:\college\third year\برمجة تكاملية\IP_Project\obj\Debug\IP_Project.EmployeeMain.resources
+E:\college\third year\برمجة تكاملية\IP_Project\obj\Debug\IP_Project.main_page.resources
+E:\college\third year\برمجة تكاملية\IP_Project\obj\Debug\IP_Project.managerMain.resources
+E:\college\third year\برمجة تكاملية\IP_Project\obj\Debug\IP_Project.Properties.Resources.resources
+E:\college\third year\برمجة تكاملية\IP_Project\obj\Debug\IP_Project.userMainpage.resources
+E:\college\third year\برمجة تكاملية\IP_Project\obj\Debug\IP_Project.csproj.GenerateResource.cache
+E:\college\third year\برمجة تكاملية\IP_Project\obj\Debug\IP_Project.csproj.CoreCompileInputs.cache
+E:\college\third year\برمجة تكاملية\IP_Project\obj\Debug\IP_Project.exe
+E:\college\third year\برمجة تكاملية\IP_Project\obj\Debug\IP_Project.pdb
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\IP_Project.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\IP_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\IP_Project.addCustomerfrm.resources
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\test.control.custom_txtbox.resources
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\IP_Project.history.resources
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\IP_Project.loginForm.resources
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\IP_Project.Form2.resources
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\IP_Project.EmployeeMain.resources
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\IP_Project.billGeneratefrm.resources
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\IP_Project.managerMain.resources
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\IP_Project.Properties.Resources.resources
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\IP_Project.transaction.resources
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\IP_Project.unitPrice_frm.resources
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\IP_Project.updateCustomerfrm.resources
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\IP_Project.userMainpage.resources
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\IP_Project.user_complaint.resources
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\IP_Project.viewCustomers.resources
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\IP_Project.csproj.GenerateResource.cache
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\IP_Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\IP_Project.exe
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\IP_Project.pdb
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\bin\Debug\IP_Project.exe.config
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\bin\Debug\IP_Project.exe
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\bin\Debug\IP_Project.pdb
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\IP_Project.searchBill_frm.resources
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\IP_Project.addEmployee_frm.resources
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\IP_Project.viewEmployees_frm.resources
+C:\Users\user\Desktop\مجلد جديد\New folder (2)\IP_Project\obj\Debug\IP_Project.updateEmployees_frm.resources
+E:\college\third year\برمجة تكاملية\2\IP_Project\bin\Debug\IP_Project.exe.config
+E:\college\third year\برمجة تكاملية\2\IP_Project\bin\Debug\IP_Project.exe
+E:\college\third year\برمجة تكاملية\2\IP_Project\bin\Debug\IP_Project.pdb
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.csproj.AssemblyReference.cache
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.csproj.SuggestedBindingRedirects.cache
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.addCustomerfrm.resources
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.addEmployee_frm.resources
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.searchBill_frm.resources
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\test.control.custom_txtbox.resources
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.history.resources
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.loginForm.resources
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.EmployeeMain.resources
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.billGeneratefrm.resources
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.managerMain.resources
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.Properties.Resources.resources
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.transaction.resources
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.unitPrice_frm.resources
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.updateCustomer_frm.resources
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.updateEmployees_frm.resources
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.viewCustomers.resources
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.viewEmployees_frm.resources
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.csproj.GenerateResource.cache
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.csproj.CoreCompileInputs.cache
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.exe
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.pdb
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.customerMain_frm.resources
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.employeeMain_frm.resources
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.complaintText_frm.resources
+E:\college\third year\برمجة تكاملية\2\IP_Project\obj\Debug\IP_Project.customercomplaint_frm.resources
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\bin\Debug\IP_Project.exe.config
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\bin\Debug\IP_Project.exe
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\bin\Debug\IP_Project.pdb
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.addCustomerfrm.resources
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.addEmployee_frm.resources
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.customerMain_frm.resources
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.employeeMain_frm.resources
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.searchBill_frm.resources
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\test.control.custom_txtbox.resources
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.history.resources
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.loginForm.resources
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.complaintText_frm.resources
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.EmployeeMain.resources
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.billGeneratefrm.resources
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.Properties.Resources.resources
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.transaction.resources
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.unitPrice_frm.resources
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.updateCustomer_frm.resources
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.updateEmployees_frm.resources
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.customercomplaint_frm.resources
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.viewCustomers.resources
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.viewEmployees_frm.resources
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.csproj.GenerateResource.cache
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.exe
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.pdb
+C:\Users\user\Desktop\مجلد جديد\Last\IP_Project\obj\Debug\IP_Project.managerMain_frm.resources
+E:\visual studio\IP_Project\bin\Debug\IP_Project.exe.config
+E:\visual studio\IP_Project\bin\Debug\IP_Project.exe
+E:\visual studio\IP_Project\bin\Debug\IP_Project.pdb
+E:\visual studio\IP_Project\obj\Debug\IP_Project.csproj.AssemblyReference.cache
+E:\visual studio\IP_Project\obj\Debug\IP_Project.csproj.SuggestedBindingRedirects.cache
+E:\visual studio\IP_Project\obj\Debug\IP_Project.addCustomerfrm.resources
+E:\visual studio\IP_Project\obj\Debug\IP_Project.addEmployee_frm.resources
+E:\visual studio\IP_Project\obj\Debug\IP_Project.customerMain_frm.resources
+E:\visual studio\IP_Project\obj\Debug\IP_Project.employeeMain_frm.resources
+E:\visual studio\IP_Project\obj\Debug\IP_Project.searchBill_frm.resources
+E:\visual studio\IP_Project\obj\Debug\test.control.custom_txtbox.resources
+E:\visual studio\IP_Project\obj\Debug\IP_Project.history.resources
+E:\visual studio\IP_Project\obj\Debug\IP_Project.loginForm.resources
+E:\visual studio\IP_Project\obj\Debug\IP_Project.complaintText_frm.resources
+E:\visual studio\IP_Project\obj\Debug\IP_Project.EmployeeMain.resources
+E:\visual studio\IP_Project\obj\Debug\IP_Project.billGeneratefrm.resources
+E:\visual studio\IP_Project\obj\Debug\IP_Project.managerMain_frm.resources
+E:\visual studio\IP_Project\obj\Debug\IP_Project.Properties.Resources.resources
+E:\visual studio\IP_Project\obj\Debug\IP_Project.transaction.resources
+E:\visual studio\IP_Project\obj\Debug\IP_Project.unitPrice_frm.resources
+E:\visual studio\IP_Project\obj\Debug\IP_Project.updateCustomer_frm.resources
+E:\visual studio\IP_Project\obj\Debug\IP_Project.updateEmployees_frm.resources
+E:\visual studio\IP_Project\obj\Debug\IP_Project.customercomplaint_frm.resources
+E:\visual studio\IP_Project\obj\Debug\IP_Project.viewCustomers.resources
+E:\visual studio\IP_Project\obj\Debug\IP_Project.viewEmployees_frm.resources
+E:\visual studio\IP_Project\obj\Debug\IP_Project.csproj.GenerateResource.cache
+E:\visual studio\IP_Project\obj\Debug\IP_Project.csproj.CoreCompileInputs.cache
+E:\visual studio\IP_Project\obj\Debug\IP_Project.exe
+E:\visual studio\IP_Project\obj\Debug\IP_Project.pdb
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\bin\Debug\IP_Project.exe.config
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\bin\Debug\IP_Project.exe
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\bin\Debug\IP_Project.pdb
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\obj\Debug\IP_Project.csproj.AssemblyReference.cache
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\obj\Debug\IP_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\obj\Debug\IP_Project.addCustomerfrm.resources
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\obj\Debug\IP_Project.addEmployee_frm.resources
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\obj\Debug\IP_Project.customerMain_frm.resources
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\obj\Debug\IP_Project.employeeMain_frm.resources
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\obj\Debug\IP_Project.searchBill_frm.resources
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\obj\Debug\test.control.custom_txtbox.resources
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\obj\Debug\IP_Project.history.resources
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\obj\Debug\IP_Project.complaintText_frm.resources
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\obj\Debug\IP_Project.EmployeeMain.resources
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\obj\Debug\IP_Project.managerMain_frm.resources
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\obj\Debug\IP_Project.Properties.Resources.resources
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\obj\Debug\IP_Project.transaction.resources
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\obj\Debug\IP_Project.unitPrice_frm.resources
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\obj\Debug\IP_Project.customercomplaint_frm.resources
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\obj\Debug\IP_Project.viewEmployees_frm.resources
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\obj\Debug\IP_Project.csproj.GenerateResource.cache
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\obj\Debug\IP_Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\obj\Debug\IP_Project.exe
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\obj\Debug\IP_Project.pdb
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\obj\Debug\IP_Project.login_frm.resources
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\obj\Debug\IP_Project.billGenerate_frm.resources
+C:\Users\user\Documents\lastUpdate\lastUpdate\IP_Project\obj\Debug\IP_Project.viewCustomers_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\bin\Debug\IP_Project.exe.config
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\bin\Debug\IP_Project.exe
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\bin\Debug\IP_Project.pdb
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\obj\Debug\IP_Project.csproj.AssemblyReference.cache
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\obj\Debug\IP_Project.csproj.SuggestedBindingRedirects.cache
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\obj\Debug\IP_Project.addCustomerfrm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\obj\Debug\IP_Project.addEmployee_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\obj\Debug\IP_Project.customerMain_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\obj\Debug\IP_Project.employeeMain_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\obj\Debug\IP_Project.searchBill_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\obj\Debug\test.control.custom_txtbox.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\obj\Debug\IP_Project.history.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\obj\Debug\IP_Project.login_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\obj\Debug\IP_Project.complaintText_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\obj\Debug\IP_Project.EmployeeMain.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\obj\Debug\IP_Project.billGenerate_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\obj\Debug\IP_Project.managerMain_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\obj\Debug\IP_Project.Properties.Resources.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\obj\Debug\IP_Project.transaction.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\obj\Debug\IP_Project.unitPrice_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\obj\Debug\IP_Project.customercomplaint_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\obj\Debug\IP_Project.viewCustomers_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\obj\Debug\IP_Project.viewEmployees_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\obj\Debug\IP_Project.csproj.GenerateResource.cache
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\obj\Debug\IP_Project.csproj.CoreCompileInputs.cache
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\obj\Debug\IP_Project.exe
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project\obj\Debug\IP_Project.pdb
+C:\Users\osama\Desktop\IP_Project8\IP_Project\bin\Debug\IP_Project.exe.config
+C:\Users\osama\Desktop\IP_Project8\IP_Project\bin\Debug\IP_Project.exe
+C:\Users\osama\Desktop\IP_Project8\IP_Project\bin\Debug\IP_Project.pdb
+C:\Users\osama\Desktop\IP_Project8\IP_Project\obj\Debug\IP_Project.addCustomerfrm.resources
+C:\Users\osama\Desktop\IP_Project8\IP_Project\obj\Debug\IP_Project.addEmployee_frm.resources
+C:\Users\osama\Desktop\IP_Project8\IP_Project\obj\Debug\IP_Project.customerMain_frm.resources
+C:\Users\osama\Desktop\IP_Project8\IP_Project\obj\Debug\IP_Project.employeeMain_frm.resources
+C:\Users\osama\Desktop\IP_Project8\IP_Project\obj\Debug\IP_Project.searchBill_frm.resources
+C:\Users\osama\Desktop\IP_Project8\IP_Project\obj\Debug\test.control.custom_txtbox.resources
+C:\Users\osama\Desktop\IP_Project8\IP_Project\obj\Debug\IP_Project.history.resources
+C:\Users\osama\Desktop\IP_Project8\IP_Project\obj\Debug\IP_Project.login_frm.resources
+C:\Users\osama\Desktop\IP_Project8\IP_Project\obj\Debug\IP_Project.complaintText_frm.resources
+C:\Users\osama\Desktop\IP_Project8\IP_Project\obj\Debug\IP_Project.EmployeeMain.resources
+C:\Users\osama\Desktop\IP_Project8\IP_Project\obj\Debug\IP_Project.billGenerate_frm.resources
+C:\Users\osama\Desktop\IP_Project8\IP_Project\obj\Debug\IP_Project.managerMain_frm.resources
+C:\Users\osama\Desktop\IP_Project8\IP_Project\obj\Debug\IP_Project.Properties.Resources.resources
+C:\Users\osama\Desktop\IP_Project8\IP_Project\obj\Debug\IP_Project.transaction.resources
+C:\Users\osama\Desktop\IP_Project8\IP_Project\obj\Debug\IP_Project.unitPrice_frm.resources
+C:\Users\osama\Desktop\IP_Project8\IP_Project\obj\Debug\IP_Project.customercomplaint_frm.resources
+C:\Users\osama\Desktop\IP_Project8\IP_Project\obj\Debug\IP_Project.viewCustomers_frm.resources
+C:\Users\osama\Desktop\IP_Project8\IP_Project\obj\Debug\IP_Project.viewEmployees_frm.resources
+C:\Users\osama\Desktop\IP_Project8\IP_Project\obj\Debug\IP_Project.csproj.GenerateResource.cache
+C:\Users\osama\Desktop\IP_Project8\IP_Project\obj\Debug\IP_Project.csproj.CoreCompileInputs.cache
+C:\Users\osama\Desktop\IP_Project8\IP_Project\obj\Debug\IP_Project.exe
+C:\Users\osama\Desktop\IP_Project8\IP_Project\obj\Debug\IP_Project.pdb
+C:\Users\osama\Desktop\IP_Project8\IP_Project\obj\Debug\IP_Project.csproj.AssemblyReference.cache
+C:\Users\osama\Desktop\IP_Project_fot_design\bin\Debug\IP_Project.exe.config
+C:\Users\osama\Desktop\IP_Project_fot_design\bin\Debug\IP_Project.exe
+C:\Users\osama\Desktop\IP_Project_fot_design\bin\Debug\IP_Project.pdb
+C:\Users\osama\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.addCustomerfrm.resources
+C:\Users\osama\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.addEmployee_frm.resources
+C:\Users\osama\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.customerMain_frm.resources
+C:\Users\osama\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.employeeMain_frm.resources
+C:\Users\osama\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.searchBill_frm.resources
+C:\Users\osama\Desktop\IP_Project_fot_design\obj\Debug\test.control.custom_txtbox.resources
+C:\Users\osama\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.history.resources
+C:\Users\osama\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.login_frm.resources
+C:\Users\osama\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.complaintText_frm.resources
+C:\Users\osama\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.billGenerate_frm.resources
+C:\Users\osama\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.managerMain_frm.resources
+C:\Users\osama\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.Properties.Resources.resources
+C:\Users\osama\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.unitPrice_frm.resources
+C:\Users\osama\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.customercomplaint_frm.resources
+C:\Users\osama\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.viewCustomers_frm.resources
+C:\Users\osama\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.viewEmployees_frm.resources
+C:\Users\osama\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.csproj.GenerateResource.cache
+C:\Users\osama\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.csproj.CoreCompileInputs.cache
+C:\Users\osama\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.exe
+C:\Users\osama\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.pdb
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\bin\Debug\IP_Project.exe.config
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\bin\Debug\IP_Project.exe
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\bin\Debug\IP_Project.pdb
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\obj\Debug\IP_Project.csproj.SuggestedBindingRedirects.cache
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\obj\Debug\IP_Project.addCustomerfrm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\obj\Debug\IP_Project.addEmployee_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\obj\Debug\IP_Project.customerMain_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\obj\Debug\IP_Project.employeeMain_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\obj\Debug\IP_Project.searchBill_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\obj\Debug\test.control.custom_txtbox.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\obj\Debug\IP_Project.history.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\obj\Debug\IP_Project.login_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\obj\Debug\IP_Project.complaintText_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\obj\Debug\IP_Project.EmployeeMain.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\obj\Debug\IP_Project.billGenerate_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\obj\Debug\IP_Project.managerMain_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\obj\Debug\IP_Project.Properties.Resources.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\obj\Debug\IP_Project.transaction.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\obj\Debug\IP_Project.unitPrice_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\obj\Debug\IP_Project.customercomplaint_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\obj\Debug\IP_Project.viewCustomers_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\obj\Debug\IP_Project.viewEmployees_frm.resources
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\obj\Debug\IP_Project.csproj.GenerateResource.cache
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\obj\Debug\IP_Project.csproj.CoreCompileInputs.cache
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\obj\Debug\IP_Project.exe
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\obj\Debug\IP_Project.pdb
+E:\college\third year\برمجة تكاملية\مشروع التكاملية\IP_Project_fot_design\obj\Debug\IP_Project.logoUserControl.resources
+C:\Users\osama\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.logoUserControl.resources
+C:\Users\osama\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.forms_control.form_show_close.resources
+C:\Users\osama\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.csproj.AssemblyReference.cache
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\bin\Debug\IP_Project.exe.config
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\bin\Debug\IP_Project.exe
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\bin\Debug\IP_Project.pdb
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.customerMain_frm.resources
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.employeeMain_frm.resources
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.forms_control.form_show_close.resources
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.logoUserControl.resources
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\obj\Debug\test.control.custom_txtbox.resources
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.login_frm.resources
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.complaintText_frm.resources
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.managerMain_frm.resources
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.Properties.Resources.resources
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.csproj.GenerateResource.cache
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.csproj.CoreCompileInputs.cache
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.exe
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.pdb
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.addEmpUsercont.resources
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.addConsuUseControl.resources
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.seachBillUserCont.resources
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.billGenerate.resources
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.historyUserCont.resources
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.unitPriceUsercont.resources
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.consumercomplaintUsercont.resources
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.viewConsuUsercont.resources
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.viewEmpUsercont.resources
+C:\Users\عبدالعزيز\Desktop\IP_Project_fot_design\obj\Debug\IP_Project.homeUsercont.resources
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\bin\Debug\IP_Project.exe.config
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\bin\Debug\IP_Project.exe
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\bin\Debug\IP_Project.pdb
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\obj\Debug\IP_Project.addConsuUseControl.resources
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\obj\Debug\IP_Project.addEmpUsercont.resources
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\obj\Debug\IP_Project.billGenerate.resources
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\obj\Debug\IP_Project.consumercomplaintUsercont.resources
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\obj\Debug\IP_Project.customerMain_frm.resources
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\obj\Debug\IP_Project.employeeMain_frm.resources
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\obj\Debug\IP_Project.forms_control.form_show_close.resources
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\obj\Debug\IP_Project.historyUserCont.resources
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\obj\Debug\IP_Project.homeUsercont.resources
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\obj\Debug\IP_Project.logoUserControl.resources
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\obj\Debug\IP_Project.seachBillUserCont.resources
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\obj\Debug\test.control.custom_txtbox.resources
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\obj\Debug\IP_Project.login_frm.resources
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\obj\Debug\IP_Project.complaintText_frm.resources
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\obj\Debug\IP_Project.managerMain_frm.resources
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\obj\Debug\IP_Project.Properties.Resources.resources
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\obj\Debug\IP_Project.unitPriceUsercont.resources
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\obj\Debug\IP_Project.viewConsuUsercont.resources
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\obj\Debug\IP_Project.viewEmpUsercont.resources
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\obj\Debug\IP_Project.csproj.GenerateResource.cache
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\obj\Debug\IP_Project.csproj.CoreCompileInputs.cache
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\obj\Debug\IP_Project.exe
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\obj\Debug\IP_Project.pdb
+C:\Users\osama\Desktop\Projectc#\IP_Project_fot_design\obj\Debug\IP_Project.csproj.AssemblyReference.cache
+C:\Users\osama\Desktop\new\IP_Project_fot_design\bin\Debug\IP_Project.exe.config
+C:\Users\osama\Desktop\new\IP_Project_fot_design\bin\Debug\IP_Project.exe
+C:\Users\osama\Desktop\new\IP_Project_fot_design\bin\Debug\IP_Project.pdb
+C:\Users\osama\Desktop\new\IP_Project_fot_design\obj\Debug\IP_Project.addConsuUseControl.resources
+C:\Users\osama\Desktop\new\IP_Project_fot_design\obj\Debug\IP_Project.addEmpUsercont.resources
+C:\Users\osama\Desktop\new\IP_Project_fot_design\obj\Debug\IP_Project.billGenerate.resources
+C:\Users\osama\Desktop\new\IP_Project_fot_design\obj\Debug\IP_Project.consumercomplaintUsercont.resources
+C:\Users\osama\Desktop\new\IP_Project_fot_design\obj\Debug\IP_Project.customerMain_frm.resources
+C:\Users\osama\Desktop\new\IP_Project_fot_design\obj\Debug\IP_Project.employeeMain_frm.resources
+C:\Users\osama\Desktop\new\IP_Project_fot_design\obj\Debug\IP_Project.forms_control.form_show_close.resources
+C:\Users\osama\Desktop\new\IP_Project_fot_design\obj\Debug\IP_Project.historyUserCont.resources
+C:\Users\osama\Desktop\new\IP_Project_fot_design\obj\Debug\IP_Project.homeUsercont.resources
+C:\Users\osama\Desktop\new\IP_Project_fot_design\obj\Debug\IP_Project.logoUserControl.resources
+C:\Users\osama\Desktop\new\IP_Project_fot_design\obj\Debug\IP_Project.seachBillUserCont.resources
+C:\Users\osama\Desktop\new\IP_Project_fot_design\obj\Debug\test.control.custom_txtbox.resources
+C:\Users\osama\Desktop\new\IP_Project_fot_design\obj\Debug\IP_Project.login_frm.resources
+C:\Users\osama\Desktop\new\IP_Project_fot_design\obj\Debug\IP_Project.complaintText_frm.resources
+C:\Users\osama\Desktop\new\IP_Project_fot_design\obj\Debug\IP_Project.managerMain_frm.resources
+C:\Users\osama\Desktop\new\IP_Project_fot_design\obj\Debug\IP_Project.Properties.Resources.resources
+C:\Users\osama\Desktop\new\IP_Project_fot_design\obj\Debug\IP_Project.unitPriceUsercont.resources
+C:\Users\osama\Desktop\new\IP_Project_fot_design\obj\Debug\IP_Project.viewConsuUsercont.resources
+C:\Users\osama\Desktop\new\IP_Project_fot_design\obj\Debug\IP_Project.viewEmpUsercont.resources
+C:\Users\osama\Desktop\new\IP_Project_fot_design\obj\Debug\IP_Project.csproj.GenerateResource.cache
+C:\Users\osama\Desktop\new\IP_Project_fot_design\obj\Debug\IP_Project.csproj.CoreCompileInputs.cache
+C:\Users\osama\Desktop\new\IP_Project_fot_design\obj\Debug\IP_Project.exe
+C:\Users\osama\Desktop\new\IP_Project_fot_design\obj\Debug\IP_Project.pdb
+C:\Users\osama\Desktop\new\IP_Project_fot_design\obj\Debug\IP_Project.csproj.AssemblyReference.cache
+F:\IP_Project_fot_design\bin\Debug\IP_Project.exe.config
+F:\IP_Project_fot_design\bin\Debug\IP_Project.exe
+F:\IP_Project_fot_design\bin\Debug\IP_Project.pdb
+F:\IP_Project_fot_design\obj\Debug\IP_Project.csproj.AssemblyReference.cache
+F:\IP_Project_fot_design\obj\Debug\IP_Project.csproj.SuggestedBindingRedirects.cache
+F:\IP_Project_fot_design\obj\Debug\IP_Project.addConsuUseControl.resources
+F:\IP_Project_fot_design\obj\Debug\IP_Project.addEmpUsercont.resources
+F:\IP_Project_fot_design\obj\Debug\IP_Project.billGenerate.resources
+F:\IP_Project_fot_design\obj\Debug\IP_Project.consumercomplaintUsercont.resources
+F:\IP_Project_fot_design\obj\Debug\IP_Project.customerMain_frm.resources
+F:\IP_Project_fot_design\obj\Debug\IP_Project.employeeMain_frm.resources
+F:\IP_Project_fot_design\obj\Debug\IP_Project.forms_control.form_show_close.resources
+F:\IP_Project_fot_design\obj\Debug\IP_Project.historyUserCont.resources
+F:\IP_Project_fot_design\obj\Debug\IP_Project.homeUsercont.resources
+F:\IP_Project_fot_design\obj\Debug\IP_Project.logoUserControl.resources
+F:\IP_Project_fot_design\obj\Debug\IP_Project.seachBillUserCont.resources
+F:\IP_Project_fot_design\obj\Debug\test.control.custom_txtbox.resources
+F:\IP_Project_fot_design\obj\Debug\IP_Project.login_frm.resources
+F:\IP_Project_fot_design\obj\Debug\IP_Project.complaintText_frm.resources
+F:\IP_Project_fot_design\obj\Debug\IP_Project.managerMain_frm.resources
+F:\IP_Project_fot_design\obj\Debug\IP_Project.Properties.Resources.resources
+F:\IP_Project_fot_design\obj\Debug\IP_Project.unitPriceUsercont.resources
+F:\IP_Project_fot_design\obj\Debug\IP_Project.viewConsuUsercont.resources
+F:\IP_Project_fot_design\obj\Debug\IP_Project.viewEmpUsercont.resources
+F:\IP_Project_fot_design\obj\Debug\IP_Project.csproj.GenerateResource.cache
+F:\IP_Project_fot_design\obj\Debug\IP_Project.csproj.CoreCompileInputs.cache
+F:\IP_Project_fot_design\obj\Debug\IP_Project.exe
+F:\IP_Project_fot_design\obj\Debug\IP_Project.pdb
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\bin\Debug\IP_Project.exe.config
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\bin\Debug\IP_Project.exe
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\bin\Debug\IP_Project.pdb
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\IP_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\IP_Project.addConsuUseControl.resources
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\IP_Project.addEmpUsercont.resources
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\IP_Project.billGenerate.resources
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\IP_Project.consumercomplaintUsercont.resources
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\IP_Project.customerMain_frm.resources
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\IP_Project.employeeMain_frm.resources
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\IP_Project.forms_control.form_show_close.resources
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\IP_Project.historyUserCont.resources
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\IP_Project.homeUsercont.resources
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\IP_Project.logoUserControl.resources
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\IP_Project.seachBillUserCont.resources
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\test.control.custom_txtbox.resources
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\IP_Project.login_frm.resources
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\IP_Project.complaintText_frm.resources
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\IP_Project.managerMain_frm.resources
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\IP_Project.Properties.Resources.resources
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\IP_Project.unitPriceUsercont.resources
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\IP_Project.viewConsuUsercont.resources
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\IP_Project.viewEmpUsercont.resources
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\IP_Project.csproj.GenerateResource.cache
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\IP_Project.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\IP_Project.exe
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\IP_Project.pdb
+C:\Users\abdullah\Desktop\new2\IP_Project_fot_design\obj\Debug\IP_Project.csproj.AssemblyReference.cache

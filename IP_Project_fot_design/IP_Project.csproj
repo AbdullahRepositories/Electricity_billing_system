@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C0EE1791-4AC6-445F-941B-B4126A1824FB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>IP_Project</RootNamespace>
+    <AssemblyName>IP_Project</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addConsuUseControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="addConsuUseControl.Designer.cs">
+      <DependentUpon>addConsuUseControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addEmpUsercont.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="addEmpUsercont.Designer.cs">
+      <DependentUpon>addEmpUsercont.cs</DependentUpon>
+    </Compile>
+    <Compile Include="billGenerate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="billGenerate.Designer.cs">
+      <DependentUpon>billGenerate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="consumercomplaintUsercont.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="consumercomplaintUsercont.Designer.cs">
+      <DependentUpon>consumercomplaintUsercont.cs</DependentUpon>
+    </Compile>
+    <Compile Include="customerMain_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customerMain_frm.Designer.cs">
+      <DependentUpon>customerMain_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="employeeMain_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="employeeMain_frm.Designer.cs">
+      <DependentUpon>employeeMain_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formscontrol\form_show_close.cs" />
+    <Compile Include="historyUserCont.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="historyUserCont.Designer.cs">
+      <DependentUpon>historyUserCont.cs</DependentUpon>
+    </Compile>
+    <Compile Include="homeUsercont.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="homeUsercont.Designer.cs">
+      <DependentUpon>homeUsercont.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface1.cs" />
+    <Compile Include="LogSingleton\ILog.cs" />
+    <Compile Include="logoUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="logoUserControl.Designer.cs">
+      <DependentUpon>logoUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogSingleton\Log.cs" />
+    <Compile Include="Operations.cs" />
+    <Compile Include="proxy_login.cs" />
+    <Compile Include="seachBillUserCont.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="seachBillUserCont.Designer.cs">
+      <DependentUpon>seachBillUserCont.cs</DependentUpon>
+    </Compile>
+    <Compile Include="unitPriceUsercont.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="unitPriceUsercont.Designer.cs">
+      <DependentUpon>unitPriceUsercont.cs</DependentUpon>
+    </Compile>
+    <Compile Include="URLs.cs" />
+    <Compile Include="userInfo.cs" />
+    <Compile Include="viewConsuUsercont.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="viewConsuUsercont.Designer.cs">
+      <DependentUpon>viewConsuUsercont.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\RJButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Control\custom_txtbox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\custom_txtbox.designer.cs">
+      <DependentUpon>custom_txtbox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login_frm.Designer.cs">
+      <DependentUpon>login_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="complaintText_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="complaintText_frm.Designer.cs">
+      <DependentUpon>complaintText_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="managerMain_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="managerMain_frm.Designer.cs">
+      <DependentUpon>managerMain_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="viewEmpUsercont.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="viewEmpUsercont.Designer.cs">
+      <DependentUpon>viewEmpUsercont.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="addConsuUseControl.resx">
+      <DependentUpon>addConsuUseControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addEmpUsercont.resx">
+      <DependentUpon>addEmpUsercont.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="billGenerate.resx">
+      <DependentUpon>billGenerate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="consumercomplaintUsercont.resx">
+      <DependentUpon>consumercomplaintUsercont.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customerMain_frm.resx">
+      <DependentUpon>customerMain_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="employeeMain_frm.resx">
+      <DependentUpon>employeeMain_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formscontrol\form_show_close.resx">
+      <DependentUpon>form_show_close.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="historyUserCont.resx">
+      <DependentUpon>historyUserCont.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="homeUsercont.resx">
+      <DependentUpon>homeUsercont.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="logoUserControl.resx">
+      <DependentUpon>logoUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="seachBillUserCont.resx">
+      <DependentUpon>seachBillUserCont.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\custom_txtbox.resx">
+      <DependentUpon>custom_txtbox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login_frm.resx">
+      <DependentUpon>login_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="complaintText_frm.resx">
+      <DependentUpon>complaintText_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="managerMain_frm.resx">
+      <DependentUpon>managerMain_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="unitPriceUsercont.resx">
+      <DependentUpon>unitPriceUsercont.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewConsuUsercont.resx">
+      <DependentUpon>viewConsuUsercont.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewEmpUsercont.resx">
+      <DependentUpon>viewEmpUsercont.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thenewestflake.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hd_wallpaper_10235.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empgroup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loginic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoutCLIP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payrolliconC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prbnr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ReportsC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usersIconc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2022-10-13 213047.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2022-10-13 213111.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-complaint-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-complaint-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-paid-bill-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-bill-58.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-invoice-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-bill-64 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-invoice-64 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-view-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-tags-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-invoice-64 %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-invoice-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-complaint-48 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
